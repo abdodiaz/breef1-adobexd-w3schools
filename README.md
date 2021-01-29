@@ -1,2 +1,2 @@
 # breef1-adobexd-w3schools
-<img src="mockup.png" alt="mockup"/>
+<img src="Mokup_XD.jpg" alt="mockup"/>
